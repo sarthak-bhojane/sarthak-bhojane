@@ -1,1 +1,5 @@
 - 👋 Hi, I’m Sarthak!
+- Sarthak is Final Year Computer Science and Engineering Student
+- Pursuing Bachelor of Engineering Degree
+- Who is Passionate about building Software and Web Applications that have a material impact on real world problems
+- Skilled in Java and Web Development
