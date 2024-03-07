@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Sarthak!
-- Sarthak is Recently Graduated in field of Computer Science and Engineering 
-- Completed Bachelor of Engineering Degree
-- Who is Passionate about building Software and Web Applications that have a material impact on real world problems
-- Skilled in Java and Web Development
+# Hi, I’m Sarthak! 👋
+
+Motivated fresher with strong Java programming skills and familiarity with advanced frameworks and web technologies
+
+## About Me
+
+- 🎓 Recently graduated in Computer Science and Engineering
+- 💼 Seeking an entry-level position to kickstart my career
+- 🌱 Eager to learn and grow in the industry
+- 💻 Passionate about building software and web applications
+- 🌟 Skilled in Java and Web Development
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
