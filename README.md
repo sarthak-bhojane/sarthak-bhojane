@@ -1,6 +1,6 @@
-# Hi, I’m Sarthak! 👋
+# Hi, Sarthak this side! 👋
 
-Motivated fresher with strong Java programming skills and familiarity with advanced frameworks and web technologies
+Sarthak is recently graduated with strong Java programming skills and familiarity with advanced frameworks and web technologies
 
 ## About Me
 
