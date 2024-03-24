@@ -17,6 +17,9 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
   
 - 📫 How to reach me sarthak.bhojane02@gmail.com
 
+- ![Profile Visits](https://komarev.com/ghpvc/?username=sarthak-bhojane&color=blue)
+<br><br>
+
 
 ## :computer: Languages and Tools
 <!--- language icons --->
@@ -30,10 +33,6 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,mongodb,express,react,nodejs,php,heroku,figma" /></a>
 </p>
-<br>
-
-![Profile Visits](https://komarev.com/ghpvc/?username=sarthak-bhojane&color=blue)
-<br><br>
 
 ## 📊 My GitHub Stats + Most Used Languages 
 
@@ -49,7 +48,7 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
 
 </p>
 
-## 📈 Internship 𝚆ork Experience :
+## 👔 Internship 𝚆ork Experience :
 
 <div align="center">
   
