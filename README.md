@@ -134,4 +134,4 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
 </p>
 
 ## 📌 My Projects
-<p>Explore my repositories listed below 👇</p>
+-  Explore my repositories listed below 👇
