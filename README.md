@@ -1,4 +1,4 @@
-# <h2 align="center"> Hi, Sarthak this side! 👋 </h2>
+### <h2 align="center"> Hi, Sarthak this side! 👋 </h2>
 
 Sarthak is recently graduated with strong Java programming skills and familiarity with advanced frameworks and web technologies
 
