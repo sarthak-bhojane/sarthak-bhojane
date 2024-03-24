@@ -1,137 +1,73 @@
-# Hi, Sarthak this side! 👋
+# <h2 align="center"> Hi, Sarthak this side! 👋 </h2>
 
 Sarthak is recently graduated with strong Java programming skills and familiarity with advanced frameworks and web technologies
 
 ## 📇 About Me
+<img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif" />
 
 - 🎓 Recently graduated in Computer Science and Engineering
+  
 - 💼 Seeking an entry-level position to kickstart my career
+  
 - 🌱 Eager to learn and grow in the industry
+  
 - 💻 Passionate about building software and web applications
+  
 - 🌟 Skilled in Java and Web Development
+  
+- 📫 How to reach me sarthak.bhojane02@gmail.com
+
 
 ## :computer: Languages and Tools
-<p align="left"> 
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-</a> 
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-
+<!--- language icons --->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,py,dotnet,androidstudio,hibernate,spring,postman,mysql,github,git,gcp" />
+  </a>
+</p>
+<hr></hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,mongodb,express,react,nodejs,php,heroku,figma" /></a>
 </p>
 <br>
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=sarthak-bhojane&color=blue)
 <br><br>
 
-## 📊 My Most Used Languages + GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-bhojane&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sarthak-bhojane&show_icons=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+## 📊 My GitHub Stats + Most Used Languages 
+
+<p align="center">
+
+  <a href="https://github.com/sarthak-bhojane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-bhojane&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+
+<a href="https://github.com/sarthak-bhojane">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-bhojane&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</a>
+
+</p>
+
+## 📈 Internship 𝚆ork Experience :
+
+<div align="center">
+  
+| 💼 Designation           | 🏢 Organization                                             | ⏰ Timeline            |
+| ----------------------- | ----------------------------------------------------------- | --------------------- |
+| Full Stack Web Developer| [Dream Viewer IT solutions](https://www.linkedin.com/company/dreamviewer-infotech/) | Feb 2024 - Present    |
+| Full Stack Java Developer| [ProfoundEdutech](https://www.linkedin.com/company/profound-edutech-pvt-ltd/mycompany/) | Aug 2023 – January 2024 |
+| Backend Developer       | [SohamGlobal](https://www.linkedin.com/company/sohamglobal/about/) | Feb 2023 - May 2023   |
+| Frontend Developer      | [LetsGrowMore](https://www.linkedin.com/company/letsgrowmore/) | Oct 2022 – Nov 2022   |
+
+</div>
 
 ## 📈 My GitHub Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-bhojane" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-bhojane&theme=dark" />
 </p>
 
 ## 📌 My Projects
 -  Explore my repositories listed below 👇
+
