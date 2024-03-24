@@ -2,7 +2,7 @@
 
 Sarthak is recently graduated with strong Java programming skills and familiarity with advanced frameworks and web technologies
 
-## About Me
+## 📇 About Me
 
 - 🎓 Recently graduated in Computer Science and Engineering
 - 💼 Seeking an entry-level position to kickstart my career
@@ -10,7 +10,7 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
 - 💻 Passionate about building software and web applications
 - 🌟 Skilled in Java and Web Development
 
-<h3 align="left">Languages and Tools:</h3>
+## :computer: Languages and Tools
 <p align="left"> 
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -111,3 +111,27 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
 </a> 
 
 </p>
+<br>
+
+![Profile Visits](https://komarev.com/ghpvc/?username=sarthak-bhojane&color=blue)
+<br><br>
+
+## 📊 My Most Used Languages + GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-bhojane&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sarthak-bhojane&show_icons=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+## 📈 My GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-bhojane" />
+</p>
+
+## 📌 My Projects
+<p>Explore my repositories listed below 👇</p>
