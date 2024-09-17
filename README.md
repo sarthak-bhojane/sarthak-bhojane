@@ -54,7 +54,8 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
   
 | 💼 Designation           | 🏢 Organization                                             | ⏰ Timeline            |
 | ----------------------- | ----------------------------------------------------------- | --------------------- |
-| Full Stack Web Developer| [Dream Viewer IT solutions](https://www.linkedin.com/company/dreamviewer-infotech/) | Feb 2024 - Present    |
+| Full Stack Web Developer| [Homeone Technologies](https://www.linkedin.com/company/homeone-technologies/) | June 2024 - Present    |
+| Full Stack Web Developer| [Dream Viewer IT solutions](https://www.linkedin.com/company/dreamviewer-infotech/) | Feb 2024 - April 2024   |
 | Full Stack Java Developer| [ProfoundEdutech](https://www.linkedin.com/company/profound-edutech-pvt-ltd/mycompany/) | Aug 2023 – January 2024 |
 | Backend Developer       | [SohamGlobal](https://www.linkedin.com/company/sohamglobal/about/) | Feb 2023 - May 2023   |
 | Frontend Developer      | [LetsGrowMore](https://www.linkedin.com/company/letsgrowmore/) | Oct 2022 – Nov 2022   |
