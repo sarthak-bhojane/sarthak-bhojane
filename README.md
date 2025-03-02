@@ -48,7 +48,7 @@ Sarthak is recently graduated with strong Java programming skills and familiarit
 
 </p>
 
-## 👔 Internship 𝚆ork Experience :
+## 👔 𝚆ork Experience :
 
 <div align="center">
   
