@@ -5,9 +5,9 @@ Experienced Fullstack Developer with a demonstrated history of 1+ year and passi
 ## 📇 About Me
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif" />
 
+- 💼 Experienced Fullstack Developer with a demonstrated history of 1+ year
+
 - 🎓 Recently graduated in Computer Science and Engineering
-  
-- 💼 Seeking an entry-level position to kickstart my career
   
 - 🌱 Eager to learn and grow in the industry
   
