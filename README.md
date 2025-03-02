@@ -1,6 +1,6 @@
 ### <h2 align="center"> Hi, Sarthak this side! 👋 </h2>
 
-Sarthak is recently graduated with strong Java programming skills and familiarity with advanced frameworks and web technologies
+Experienced Fullstack Developer with a demonstrated history of 1+ year and passionate about building software and web-applications that have a material impact on real-world problems. Skilled in Full Stack Java and Web development.
 
 ## 📇 About Me
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif" />
